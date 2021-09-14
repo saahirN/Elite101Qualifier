@@ -1,8 +1,8 @@
-# Title
+# **Elite 101 Qualifier: Chatbot**
 
-Simple (or clever and funny?) description
+_This is a simple **Chatbot** that can talk about video games, movies, and books._
 
-## Table of Contents
+## **Table of Contents**
 
 - [Background](#background)
 
@@ -10,14 +10,14 @@ Simple (or clever and funny?) description
 
 - [Usage](#usage)
 
-## Background
+### **Background**
 
-This application was made to be a qualif
+_This application was made as part of the pre-course work for the **Elite 101 program** with **Code2College.**_
 
-## Install
+### **Install**
 
-These are the steps to setup your local environment to run this application.
+_**No** special instructions for installation_
 
-## Usage
+### **Usage**
 
-These are the steps to use the application or interact with it.
+*Enter either **video games**, **books**, or **movies** when the chatbot asks for the topic. Respond to the questions the chatbot asks. To exit the chatbot, type **"bye"**. If you type another topic as your answer to a question, the chatbot will switch to that topic. 
