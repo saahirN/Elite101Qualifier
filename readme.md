@@ -20,4 +20,4 @@ _**No** special instructions for installation_
 
 ### **Usage**
 
-*Enter either **video games**, **books**, or **movies** when the chatbot asks for the topic. Respond to the questions the chatbot asks. To exit the chatbot, type **"bye"**. If you type another topic as your answer to a question, the chatbot will switch to that topic. 
+_Enter either **video games**, **books**, or **movies** when the chatbot asks for the topic. Respond to the questions the chatbot asks. To exit the chatbot, type **"bye"**. If you type another topic as your answer to a question, the chatbot will switch to that topic._
