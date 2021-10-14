@@ -13,6 +13,7 @@ class Bot():
     self.topic = self.topic.upper()
   
   def talk(self):
+    self.check_question()
     while(self.topic != "BYE"):
       if (self.topic == "VIDEO GAMES"):
           self.videoGameQuestion()
@@ -189,6 +190,14 @@ class Bot():
         print("Memoirs are also my favorite")
       else:
         print("That genre of books is great!")
+  
+  def check_question(self):
+    breakpoint()
+    System.
+    print(self.user_response.index('?'))
+    if (self.user_response[len(self.user_response) - 1] == "?"):
+      print("This worked")
+    
 
 chatbot = Bot()
 chatbot.Start()
