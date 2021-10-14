@@ -4,7 +4,7 @@ class Bot():
 
   def __init__(self):
     self.start = True
-    self.user_response = ""
+    self.user_response = "     "
     self.topic = ""
   
   def Start(self):
@@ -192,10 +192,7 @@ class Bot():
         print("That genre of books is great!")
   
   def check_question(self):
-    breakpoint()
-    System.
-    print(self.user_response.index('?'))
-    if (self.user_response[len(self.user_response) - 1] == "?"):
+    if (self.user_response[-1] == "?"):
       print("This worked")
     
 
