@@ -194,6 +194,7 @@ class Bot():
   def check_question(self):
     if (self.user_response[-1] == "?"):
       print("This worked")
+    print("Hello World")
     
 
 chatbot = Bot()
